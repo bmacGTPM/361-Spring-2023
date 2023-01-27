@@ -1,7 +1,12 @@
 ---
 title: "HW 2, Question 2"
+<<<<<<< HEAD
 author: "Zachary Donnini"
 date: 'Jan 27, 2023'
+=======
+author: "Brian Macdonald"
+date: 'Jan 15, 2023'
+>>>>>>> parent of 7a5f8d5 (Changed name and date)
 output: html_document
 ---
 
