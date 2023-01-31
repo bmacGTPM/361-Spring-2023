@@ -1,6 +1,6 @@
 ---
 title: "HW 2, Question 2"
-author: "Brian Macdonald"
+author: "Conor Sheehan"
 date: 'Jan 15, 2023'
 output: html_document
 ---
