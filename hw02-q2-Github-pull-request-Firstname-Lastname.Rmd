@@ -1,6 +1,6 @@
 ---
 title: "HW 2, Question 2"
-author: "Mark Ayiah"
+author: "Mark F Ayiah"
 date: 'Jan 15, 2023'
 output: html_document
 ---
